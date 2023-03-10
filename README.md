@@ -12,7 +12,7 @@ This is a working model, but currently i am working on adding some extra feautur
 ## Database
 SQLite3 is used for data managing and storing.
 
-The Current database is stored as bankCustomer.db already has 4 customers/users of the bank with 1000₹ in their account, you can add customers/users using SQLite3 commands.
+The Current database is stored as **bankCustomer.db** already has 4 customers/users of the bank with 1000₹ in their account, you can add customers/users using SQLite3 commands.
 
 ## UPI Security
 This version has the UPI security feature.
